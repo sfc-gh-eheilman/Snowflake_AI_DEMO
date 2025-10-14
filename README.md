@@ -245,9 +245,6 @@ graph TD
    - Run `SHOW CORTEX SEARCH SERVICES;` to verify 4 search services
    - Run `SHOW FUNCTIONS LIKE 'WEB_SCRAPE';` to verify web scraping function
    - Run `SHOW FUNCTIONS LIKE 'GET_FILE_PRESIGNED_URL';` to verify presigned URL function
-   - Test agent: `SELECT SNOWFLAKE_INTELLIGENCE.AGENTS.COMPANY_CHATBOT_AGENT('What are our monthly sales for 2025?');`
-   - Test web scraping: `SELECT SNOWFLAKE_INTELLIGENCE.AGENTS.COMPANY_CHATBOT_AGENT('Analyze the content from https://snowflake.com/products/ and compare it to our product data');`
-   - Test file access: `SELECT SNOWFLAKE_INTELLIGENCE.AGENTS.COMPANY_CHATBOT_AGENT('Generate a presigned URL for the sales_fact.csv file in our internal stage');`
 
 
 
