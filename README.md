@@ -303,7 +303,7 @@ The following questions demonstrate the agent's ability to perform cross-domain 
    "Calculate our customer acquisition cost by marketing channel. Which channels deliver the most profitable customers?"
 
 3. **Vendor Spend & Policy Compliance**  
-   "What are our top 5 vendors in the last 5 years? Check our vendor management policy - are we following procurement guidelines for all transactions?"
+   "What are our top 5 vendors in the last 5 years? Are we following procurement guidelines with our purchases from these vendors based on our vendor management policy ?"
 
 ### 🔍 Cross-Functional Insights & External Data
 **Web Content Analysis Questions**  
